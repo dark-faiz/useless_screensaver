@@ -56,7 +56,8 @@ Default
 
 ### Project Demo
 # Video
-![Demo Video](https://github.com/dark-faiz/useless_screensaver/blob/main/public/demo%20video.gif?raw=true)
+![](https://github.com/dark-faiz/useless_screensaver/blob/main/public/demo%20video.gif)
+
 User Launches Application: The user opens the application, which initializes and prepares the face detection feature.
 Check User Presence: The application employs the face-api.js library to detect the user's face using the webcam. Viewers will see how the application actively monitors for face presence.
 Face Detected: If the user's face is detected, the screen displays the message: "Eyes on me? NO CORNERS FOR YOU!" The screen saver is kept inactive, emphasizing the humorous aspect of the project.
