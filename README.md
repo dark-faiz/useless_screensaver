@@ -56,8 +56,13 @@ Default
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+![Demo Video](https://github.com/dark-faiz/useless_screensaver/blob/main/public/demo%20video.gif?raw=true)
+User Launches Application: The user opens the application, which initializes and prepares the face detection feature.
+Check User Presence: The application employs the face-api.js library to detect the user's face using the webcam. Viewers will see how the application actively monitors for face presence.
+Face Detected: If the user's face is detected, the screen displays the message: "Eyes on me? NO CORNERS FOR YOU!" The screen saver is kept inactive, emphasizing the humorous aspect of the project.
+No Face Detected: When the application no longer detects a face, it shifts to a playful mode, showing the message: "No eyes on me? Time for the corners!" The iconic DVD logo then comes to life, moving around the screen and aiming for the corners.
+Screen Saver Activation: The video captures the DVD logo's movement as it bounces from corner to corner, demonstrating the core functionality of the screen saver. Throughout this phase, the application continuously checks for face detection.
+Return to Normal: Finally, if the application detects a face while the screen saver is active, it seamlessly transitions back to the normal state with the message: "Eyes on me? NO CORNERS FOR YOU!" showcasing the interactive design.
 
 # Additional Demos
 [Add any extra demo materials/links]
