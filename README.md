@@ -24,10 +24,10 @@ For Software:
 - **Languages used:** JavaScript
 - **Frameworks used:** React
 - **Libraries used:** face-api.js
-- **Tools used:** npm
+- **Tools used:** npm, Vscode
 
 ### Implementation
-For Software:
+For Software: Node js
 # Installation
 ```bash
 npm install
