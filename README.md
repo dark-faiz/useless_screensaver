@@ -40,14 +40,14 @@ npm run dev
 For Software:
 
 # Screenshots (Add at least 3)
-<img width="1280" alt="sample" src="https://github.com/dark-faiz/useless_screensaver/blob/main/public/presence%20of%20eyes.png">
 When there is eyes on the screen.
+<img width="1280" alt="sample" src="https://github.com/dark-faiz/useless_screensaver/blob/main/public/presence%20of%20eyes.png">
 
-<img width="1280" alt="sample" src="https://github.com/dark-faiz/useless_screensaver/blob/main/public/absence%20of%20eyes.png">
 When there is no eye or face present in view. 
+<img width="1280" alt="sample" src="https://github.com/dark-faiz/useless_screensaver/blob/main/public/absence%20of%20eyes.png">
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+Default 
+<img width="1280" alt="sample" src="https://github.com/dark-faiz/useless_screensaver/blob/main/public/default.png">
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
