@@ -63,8 +63,8 @@ For Software:
 [Add any extra demo materials/links]
 
 ## Team Contributions
--Muhammed Faiz: Designing and documentation.
--Vaishakh S Nair: Coding and debugging.
+- Muhammed Faiz: Designing and documentation.
+- Vaishakh S Nair: Coding and debugging.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
