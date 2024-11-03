@@ -31,10 +31,11 @@ For Software:
 # Installation
 ```bash
 npm install
+```
 # running
 ```bash
 npm run dev
-
+```
 ### Project Documentation
 For Software:
 
