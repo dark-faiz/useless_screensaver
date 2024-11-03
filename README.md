@@ -39,7 +39,7 @@ npm run dev
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots 
 When there is eyes on the screen.
 <img width="1280" alt="sample" src="https://github.com/dark-faiz/useless_screensaver/blob/main/public/presence%20of%20eyes.png">
 
