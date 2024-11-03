@@ -29,10 +29,10 @@ For Software:
 ### Implementation
 For Software:
 # Installation
- bash
+```bash
 npm install
 # running
- bash
+```bash
 npm run dev
 
 ### Project Documentation
