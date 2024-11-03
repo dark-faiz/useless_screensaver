@@ -1,40 +1,39 @@
-<img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
+<img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6">
 
 # The Useless Screen Saver🎯
 
-
 ## Basic Details
 ### Team Name: Two grit
-
 
 ### Team Members
 - Team Lead: Muhammed Faiz - MITS
 - Member 2: Vaishakh S Nair - MITS
 
 ### Project Description
-The annoying screen saver that nobody asked for
+The annoying screen saver that nobody asked for.
 
 ### The Problem (that doesn't exist)
-Ever felt like screen savers were way too satisfying
+Ever felt like screen savers were way too satisfying?
 
 ### The Solution (that nobody asked for)
-The iconic DVD Screen saver ,but it only touches the corners when nobody's looking.
+The iconic DVD screen saver, but it only touches the corners when nobody's looking.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- **Languages used:** JavaScript
+- **Frameworks used:** React
+- **Libraries used:** face-api.js
+- **Tools used:** npm
 
 ### Implementation
 For Software:
 # Installation
-[commands]
-
-# Run
-[commands]
+ bash
+npm install
+# running
+ bash
+npm run dev
 
 ### Project Documentation
 For Software:
